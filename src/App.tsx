@@ -3,6 +3,9 @@
 //HeaderHeading
 //ExemploDeComponente
 //toda primeira letra de palavra no nome de functions maiuscula
+import './styles/theme.css';
+import './styles/global.css';
+
 
 export function App(){
     console.log('oi');
@@ -13,7 +16,7 @@ export function App(){
     <>
         <h1>Olá mundo!</h1>
         <p>Teste diferente ok</p>
-        <p>Testando a porta agora</p>
+        <p>Testando a porta agora git</p>
     </>
     );
 
